@@ -13,7 +13,7 @@ config = {
     'install_requires': ['nose'],
     'packages': ['NAME'],
     'scripts': [],
-    'name': 'EasyRete'
+    'name': 'EasyInference'
 }
 
 setup(**config)
